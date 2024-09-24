@@ -10,6 +10,7 @@
         "language": "Swahili",
         "latitude": 9.1021,
         "longitude": 18.2812,
+        "pop_max": 1300000000,  // Example population
         "min_zoom": 1
       },
       "geometry": {
@@ -26,6 +27,7 @@
         "language": "No Official Language",
         "latitude": -82.8628,
         "longitude": 135.0,
+        "pop_max": 0,  // Example population
         "min_zoom": 1
       },
       "geometry": {
@@ -42,6 +44,7 @@
         "language": "Chinese",
         "latitude": 34.0479,
         "longitude": 100.6197,
+        "pop_max": 4600000000,  // Example population
         "min_zoom": 1
       },
       "geometry": {
@@ -58,6 +61,7 @@
         "language": "English",
         "latitude": 54.526,
         "longitude": 15.2551,
+        "pop_max": 748000000,  // Example population
         "min_zoom": 1
       },
       "geometry": {
@@ -74,6 +78,7 @@
         "language": "English",
         "latitude": 54.526,
         "longitude": -105.2551,
+        "pop_max": 579000000,  // Example population
         "min_zoom": 1
       },
       "geometry": {
@@ -90,6 +95,7 @@
         "language": "Spanish",
         "latitude": -8.7832,
         "longitude": -55.4915,
+        "pop_max": 422000000,  // Example population
         "min_zoom": 1
       },
       "geometry": {
@@ -106,6 +112,7 @@
         "language": "English",
         "latitude": -25.2744,
         "longitude": 133.7751,
+        "pop_max": 25000000,  // Example population
         "min_zoom": 1
       },
       "geometry": {
